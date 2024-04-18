@@ -7,7 +7,7 @@ function App() {
     <>
       <h1>Custom Hooks</h1>
       <Counter />
-      <Toggle />
+      <Toggle defaultValue={true} />
     </>
   );
 }

@@ -1,7 +1,11 @@
 import { useToggle } from "../hooks/useToggle";
 
-const Toggle = () => {
-  const { on, toggle, toggleOff, toggleOn } = useToggle(false);
+type ToggleProps = {
+  defaultValue: boolean;
+};
+
+const Toggle = ({ defaultValue }: ToggleProps) => {
+  const { on, toggle, toggleOff, toggleOn } = useToggle(defaultValue);
   return (
     <>
       <h2>Toggle</h2>
