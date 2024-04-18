@@ -40,3 +40,8 @@
 .read-the-docs {
   color: #888;
 }
+
+.api-box {
+  border: solid 1px #ccc;
+  height: 10rem;
+}
