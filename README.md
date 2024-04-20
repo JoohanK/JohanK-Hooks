@@ -50,5 +50,5 @@ In addition to these hooks, there are corresponding test components for each hoo
 ```sh
 "npm run dev"
 
-"yarn"
+"yarn dev"
 ```
