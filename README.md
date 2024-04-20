@@ -40,11 +40,15 @@ In addition to these hooks, there are corresponding test components for each hoo
 
 ```sh
 "npm install"
-or
+
 "yarn"
 
 ```
 
 ## Run
 
-"npm run dev" or "yarn dev" in your terminal
+```sh
+"npm run dev"
+
+"yarn"
+```
