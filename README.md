@@ -12,7 +12,8 @@ This repository contains a collection of custom React hooks designed to enhance 
 
 - useFetch
   Making HTTP requests and handling loading, error, and data states.
-  [Props: url]
+
+  - [Props: url]
 
 - usePrevious
   Saving the previous value of a variable from the previous render cycle.
