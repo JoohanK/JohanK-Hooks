@@ -8,7 +8,8 @@ This repository contains a collection of custom React hooks designed to enhance 
 
 - useCount
   Managing counting functionality in your application.
-  [Props: initialCount, maxCount and minCount]
+
+  - [Props: initialCount, maxCount and minCount]
 
 - useFetch
   Making HTTP requests and handling loading, error, and data states.
@@ -20,7 +21,8 @@ This repository contains a collection of custom React hooks designed to enhance 
 
 - useToggle
   Managing a boolean state and its toggling functionality.
-  [Props: defaultValue]
+
+  - [Props: defaultValue]
 
 - useArray (not completed)
 
