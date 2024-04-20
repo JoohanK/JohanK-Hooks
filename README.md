@@ -38,7 +38,12 @@ In addition to these hooks, there are corresponding test components for each hoo
 
 ## Install
 
-Clone the repositories to your VS-Code and make a "npm install" or "yarn" in your terminal
+```sh
+"npm install"
+or
+"yarn"
+
+```
 
 ## Run
 
